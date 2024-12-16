@@ -1,0 +1,1260 @@
+[
+  {
+    "product": {
+      "id": 646,
+      "number": "80609",
+      "is_main": true,
+      "is_active": true,
+      "inherit": false,
+      "quantity": 111,
+      "maximum_sale_for_each_user": null,
+      "max_order_quantity": null,
+      "min_order_quantity": null,
+      "release_date": null,
+      "available_until": null,
+      "auto_active_net_stock": false,
+      "auto_deactivate_net_stock": false,
+      "type": "multi",
+      "average_rating": null,
+      "by_exist_product": null,
+      "review_count": 17,
+      "weight": null,
+      "unit_id": null,
+      "availability_id": 1,
+      "name": "Advent-Türchen Nr. 5",
+      "description": "<p>Trocken ist die Bodenfaser Nummer 1 optimal geeignet zum Staubwischen auf glatten Böden, u.a. für Parkett (lackiert/geölt), Laminat, Fliesen, PVC, Granit, Kork und Cotto-Beläge. Durch die Reibung lädt sich die Bodenfaser elektrostatisch auf und hält Staub, Haare und Fusseln fest.</p><p>Sie kann auch leicht feucht angewendet werden, etwa auf Kork (versiegelt, lackiert), Laminat, Parkett (lackiert), Granit (glänzend poliert) oder Marmor (poliert). Tipp: Die Faser während der Reinigung hin und wieder mit einer Sprühflasche benetzen.</p>",
+      "preview_text": "<p>Advent-Türchen Nr. 5 Achtung: Jeden</p><p>Tagöffnet sich ein Advent-Türchen. <strong>Dieses</strong></p><p><strong>Angebot gilt am Tag der Nummer und</strong></p><p><strong>am folge Tag.</strong></p>",
+      "technical_data": "<p>Optimal für glatte Oberflächen, bei rauen Bodenbeläge könnte die Faser verfilzen und kann dann nicht mehr richtig arbeiten.</p><p>Zusammensetzung: 100% Polyester-Microfaser</p><p>Waschbar bei 60 Grad in Ihrer Waschmaschine, ohne Weichspüler</p>",
+      "meta_description": ".",
+      "meta_keywords": ".",
+      "availability": {
+        "id": 1,
+        "name": "Auf Lager",
+        "average_days": 2,
+        "file_id": 1263,
+        "file": "/storage/ssfstg.solutions-apps.com/uploads/image/176f67242c298d28418f32e55d7e33d3bafc4929.svg",
+        "translate": [
+          {
+            "availability_id": 1,
+            "locale": "de",
+            "name": "Auf Lager"
+          },
+          {
+            "availability_id": 1,
+            "locale": "en",
+            "name": "Instock"
+          }
+        ]
+      },
+      "product": {
+        "id": 654,
+        "name": "Türchen Nummer 5",
+        "description": "Spezial-Adventspreis\n2 x Staubfaser Tasche 1",
+        "number": 80609,
+        "maximum_sale_for_each_user": null,
+        "is_active": true,
+        "price_visible": true,
+        "default_vat": 19,
+        "auto_active_net_stock": false,
+        "auto_deactive_net_stock": false,
+        "max_order_quantity": null,
+        "min_order_quantity": 1,
+        "interval_order_quantity": null,
+        "release_date": null,
+        "available_until": null,
+        "file_id": 1718,
+        "sort": null,
+        "file": "/storage/ssfstg.solutions-apps.com/uploads/image/b43e40d4d2de625a619a7e61c7c9b0c7f075b62a.jpg",
+        "partner": null,
+        "translate": [
+          {
+            "product_id": 654,
+            "locale": "de",
+            "name": "Türchen Nummer 5",
+            "description": "Spezial-Adventspreis\n2 x Staubfaser Tasche 1"
+          }
+        ],
+        "main_variation_id": 646
+      },
+      "crossSellingVariations": [
+        {
+          "id": 50,
+          "number": "12330",
+          "is_main": true,
+          "is_active": true,
+          "inherit": true,
+          "quantity": 1,
+          "maximum_sale_for_each_user": null,
+          "max_order_quantity": null,
+          "min_order_quantity": null,
+          "release_date": null,
+          "available_until": null,
+          "auto_active_net_stock": false,
+          "auto_deactivate_net_stock": false,
+          "type": "single",
+          "average_rating": null,
+          "by_exist_product": null,
+          "review_count": 1,
+          "weight": "0.6120",
+          "unit_id": 92,
+          "availability_id": 1,
+          "name": "Daily 500 ml",
+          "description": "<p>Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.</p><p>Bitte nutzen Sie eine Schaumpumpe für unseren CLEA*R Daily - <a href=\"/products/121\" rel=\"noopener noreferrer\" target=\"_blank\">KLICK HIER</a></p>",
+          "preview_text": "<p>Der CLEA*R Daily - der kraftvolle Reiniger für jeden Tag.</p>",
+          "technical_data": "<p>CLEA*R Daily Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p>Weitere Eigenschaften: vegan, frei von Farbstoffen, ohne Mikroplastik, Made in Germany, Entwickelt und Hergestellt ohne Tierversuche, sehr ergiebig</p>",
+          "meta_description": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen.",
+          "meta_keywords": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen.",
+          "product": {
+            "id": 50,
+            "name": "Daily 500 ml",
+            "description": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen.",
+            "number": 12330,
+            "maximum_sale_for_each_user": 999,
+            "is_active": true,
+            "price_visible": true,
+            "default_vat": 19,
+            "auto_active_net_stock": false,
+            "auto_deactive_net_stock": false,
+            "max_order_quantity": null,
+            "min_order_quantity": 1,
+            "interval_order_quantity": 10,
+            "release_date": "2021-10-01T00:00:00.000000Z",
+            "available_until": "2021-10-01T00:00:00.000000Z",
+            "file_id": 1593,
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/28260bb0aae5da45de40f4226b124f68cf0178fe.jpg",
+            "partner": null,
+            "translate": [
+              {
+                "product_id": 50,
+                "locale": "de",
+                "name": "Daily 500 ml",
+                "description": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen."
+              }
+            ],
+            "main_variation_id": 50
+          },
+          "productVariationFiles": [
+            {
+              "id": 1490,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/396250f9e8c25455eb720f683e612c8933d3d5f4.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/396250f9e8c25455eb720f683e612c8933d3d5f4.jpg",
+              "file_self_id": 184
+            },
+            {
+              "id": 1491,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/5575152068680026905a55e5660a9a7041b8dffe.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/5575152068680026905a55e5660a9a7041b8dffe.jpg",
+              "file_self_id": 185
+            },
+            {
+              "id": 1492,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/e101e3b53ff10a700202e3d5174defd6f4abc52a.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/e101e3b53ff10a700202e3d5174defd6f4abc52a.jpg",
+              "file_self_id": 186
+            },
+            {
+              "id": 1493,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/e14752098fb13b1ce38c8566ad3199e75e88c08a.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/e14752098fb13b1ce38c8566ad3199e75e88c08a.jpg",
+              "file_self_id": 187
+            },
+            {
+              "id": 1494,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/d28f2b4aef98122e7b3ba566faab20215c4d5af6.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/d28f2b4aef98122e7b3ba566faab20215c4d5af6.jpg",
+              "file_self_id": 188
+            },
+            {
+              "id": 1495,
+              "type": "image",
+              "title": "title",
+              "link": "/storage/e101e3b53ff10a700202e3d5174defd6f4abc52a.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/e101e3b53ff10a700202e3d5174defd6f4abc52a.jpg",
+              "file_self_id": 189
+            }
+          ],
+          "productVariationPrices": [
+            {
+              "id": 1866,
+              "value": 5.8823529412,
+              "available_from": "2021-10-02T02:00:00.000000Z",
+              "minimum_quantity": 1,
+              "price": {
+                "id": 1255,
+                "interval": "none",
+                "display_for_new_item": true,
+                "min_quantity": 1,
+                "unit_price": 11.764705,
+                "created_at": "2021-10-13T10:24:02.000000Z",
+                "updated_at": "2021-10-31T18:55:17.000000Z",
+                "name": "Daily 500 ml_sale_price",
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "priceType": {
+                  "id": 3,
+                  "name": "sale_price",
+                  "translate": [
+                    {
+                      "price_type_id": 3,
+                      "locale": "en",
+                      "name": "sale_price"
+                    }
+                  ]
+                },
+                "countries": [
+                  {
+                    "id": 83,
+                    "name": "Deutschland2",
+                    "default_warranty_days": 14,
+                    "max_tax_free_trade": null,
+                    "max_small_business_trade": null,
+                    "is_eeu": true,
+                    "iso2": "DE",
+                    "iso3": "DEU",
+                    "is_active": true,
+                    "is_default": true,
+                    "timezone": null,
+                    "currency": {
+                      "name": "Euro",
+                      "id": 49,
+                      "ratio": 1,
+                      "is_default": true,
+                      "symbol": "€",
+                      "iso3": "EUR",
+                      "is_active": true,
+                      "translate": [
+                        {
+                          "currency_id": 49,
+                          "locale": "en",
+                          "name": "Euro"
+                        }
+                      ]
+                    },
+                    "vats": [
+                      {
+                        "id": 2,
+                        "number": "nisi",
+                        "valid_from": "2021-09-30T01:00:51.000000Z",
+                        "value": 0
+                      },
+                      {
+                        "id": 3,
+                        "number": "DE-7",
+                        "valid_from": "2021-09-30T01:01:39.000000Z",
+                        "value": 7.7
+                      },
+                      {
+                        "id": 1,
+                        "number": "DE-19",
+                        "valid_from": "2021-09-30T01:00:46.000000Z",
+                        "value": 19
+                      }
+                    ],
+                    "translate": [
+                      {
+                        "country_id": 83,
+                        "locale": "de",
+                        "name": "Deutschland2"
+                      },
+                      {
+                        "country_id": 83,
+                        "locale": "en",
+                        "name": "Germany"
+                      }
+                    ]
+                  }
+                ],
+                "translate": [
+                  {
+                    "price_id": 1255,
+                    "locale": "en",
+                    "name": "Daily 500 ml_sale_price"
+                  }
+                ]
+              }
+            }
+          ],
+          "vats": [
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19,
+              "country": {
+                "id": 83,
+                "name": "Deutschland2",
+                "default_warranty_days": 14,
+                "max_tax_free_trade": null,
+                "max_small_business_trade": null,
+                "is_eeu": true,
+                "iso2": "DE",
+                "iso3": "DEU",
+                "is_active": true,
+                "is_default": true,
+                "timezone": null,
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "vats": [
+                  {
+                    "id": 2,
+                    "number": "nisi",
+                    "valid_from": "2021-09-30T01:00:51.000000Z",
+                    "value": 0
+                  },
+                  {
+                    "id": 3,
+                    "number": "DE-7",
+                    "valid_from": "2021-09-30T01:01:39.000000Z",
+                    "value": 7.7
+                  },
+                  {
+                    "id": 1,
+                    "number": "DE-19",
+                    "valid_from": "2021-09-30T01:00:46.000000Z",
+                    "value": 19
+                  }
+                ],
+                "translate": [
+                  {
+                    "country_id": 83,
+                    "locale": "de",
+                    "name": "Deutschland2"
+                  },
+                  {
+                    "country_id": 83,
+                    "locale": "en",
+                    "name": "Germany"
+                  }
+                ]
+              }
+            }
+          ],
+          "productVariationVats": [
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19,
+              "country": {
+                "id": 83,
+                "name": "Deutschland2",
+                "default_warranty_days": 14,
+                "max_tax_free_trade": null,
+                "max_small_business_trade": null,
+                "is_eeu": true,
+                "iso2": "DE",
+                "iso3": "DEU",
+                "is_active": true,
+                "is_default": true,
+                "timezone": null,
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "vats": [
+                  {
+                    "id": 2,
+                    "number": "nisi",
+                    "valid_from": "2021-09-30T01:00:51.000000Z",
+                    "value": 0
+                  },
+                  {
+                    "id": 3,
+                    "number": "DE-7",
+                    "valid_from": "2021-09-30T01:01:39.000000Z",
+                    "value": 7.7
+                  },
+                  {
+                    "id": 1,
+                    "number": "DE-19",
+                    "valid_from": "2021-09-30T01:00:46.000000Z",
+                    "value": 19
+                  }
+                ],
+                "translate": [
+                  {
+                    "country_id": 83,
+                    "locale": "de",
+                    "name": "Deutschland2"
+                  },
+                  {
+                    "country_id": 83,
+                    "locale": "en",
+                    "name": "Germany"
+                  }
+                ]
+              }
+            }
+          ],
+          "translate": [
+            {
+              "product_variation_id": 50,
+              "locale": "de",
+              "name": "Daily 500 ml",
+              "description": "<p>Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.</p><p>Bitte nutzen Sie eine Schaumpumpe für unseren CLEA*R Daily - <a href=\"/products/121\" rel=\"noopener noreferrer\" target=\"_blank\">KLICK HIER</a></p>",
+              "preview_text": "<p>Der CLEA*R Daily - der kraftvolle Reiniger für jeden Tag.</p>",
+              "technical_data": "<p>CLEA*R Daily Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p>Weitere Eigenschaften: vegan, frei von Farbstoffen, ohne Mikroplastik, Made in Germany, Entwickelt und Hergestellt ohne Tierversuche, sehr ergiebig</p>",
+              "meta_description": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen.",
+              "meta_keywords": "Der CLEA*R Daily ist für alle abwaschbaren Oberflächen im Küchenbereich geeignet. Von alltäglichen bis fettigen und öligen Verschmutzungen. z. B. Dunstabzugshauben, Spülbecken, Herd, Edelstahl- Arbeitsflächen und Küchenfronten. Er ist ebenfalls optimal geeignet als Geschirrspülmittel in Kombination mit dem Cleafin-Spültuch. Der CLEA*R Daily kann auch als Allzweckreiniger im gesamten Haushalt eingesetzt werden. Ideal in Kombination mit Handschuh, Pad oder Clean-Pad einsetzbar.\r\n\r\nKennzeichnungselemente:\r\n\r\nVerursacht schwere Augenreizung.\r\n\r\nAchtung\r\n\r\nDarf nicht in die Hände von Kindern gelangen.\r\nNach Gebrauch Hände mit Wasser gründlich waschen.\r\nAugenschutz tragen.\r\nBEI KONTAKT MIT DEN AUGEN: Einige Minuten lang behutsam mit Wasser spülen. Eventuell\r\nvorhandene Kontaktlinsen nach Möglichkeit entfernen. Weiter spülen.\r\n\r\nBei anhaltender Augenreizung: Ärztlichen Rat einholen."
+            }
+          ]
+        },
+        {
+          "id": 620,
+          "number": "10017",
+          "is_main": true,
+          "is_active": true,
+          "inherit": false,
+          "quantity": 10,
+          "maximum_sale_for_each_user": null,
+          "max_order_quantity": null,
+          "min_order_quantity": null,
+          "release_date": null,
+          "available_until": null,
+          "auto_active_net_stock": false,
+          "auto_deactivate_net_stock": false,
+          "type": "single",
+          "average_rating": null,
+          "by_exist_product": null,
+          "review_count": 41,
+          "weight": null,
+          "unit_id": null,
+          "availability_id": 1,
+          "name": "Hochglanz-Set 11/21",
+          "description": "<p>Sie haben Hochglanzoberflächen in Ihrer Küche, Bad oder Wohnbereich? Oder empfindliche Oberfläche, wo die \"normale\" Microfaser nicht zum Einsatz kommen soll?</p><p>Dann haben wir hier mit dem Cleafin Hochglanz-Set genau das Richtige für Sie!</p><p>Auf das feuchte Spültuch geben Sie mit der Schaumpumpe ganz wenig CLEA´R Daily und können die Oberflächen schnell und einfach reinigen. Fingerabdrücke, Fettspritzer und andere Verschmutzungen bekommen Sie so sehr schnell gelöst und aufgenommen. Jetzt nur noch mit dem Handschuh Finish nachtrocknen, damit Sie einen streifenfreien Glanz erhalten.</p><p>Im Set enthalten:</p><ul><li>1 x CLEA*R Daily 500 ml</li><li>1 x Spültuch</li><li>1 x Handschuh Finish</li><li>Ihr Geschenk: 1 x Schaumpumpe</li></ul><p><br></p><p>CLEA´R Daily ist auch in einzeln lieferbar, einfach bei Bedarf anklicken:</p><p><a href=\"/products/50/50\" rel=\"noopener noreferrer\" target=\"_blank\">500-ml Flasche</a>, <a href=\"/products/51/51\" rel=\"noopener noreferrer\" target=\"_blank\">6x500-ml Flaschen</a>, <a href=\"/products/52/52\" rel=\"noopener noreferrer\" target=\"_blank\">2-L Kanister</a>, <a href=\"/products/53/53\" rel=\"noopener noreferrer\" target=\"_blank\">5-L Kanister</a>, <a href=\"/products/55/55\" rel=\"noopener noreferrer\" target=\"_blank\">10-L Kanister</a></p>",
+          "preview_text": "<p>Unser optimales Set für empfindliche Oberflächen, wie z.B.: Hochglanzfronten, Klavierlack usw.</p>",
+          "technical_data": "<p>1 x Spültuch: Das Cleafin-Spültuch ist ein handliches und zuverlässiges Küchen-Universaltuch mit vielseitigen Einsatzmöglichkeiten, z. B. zum Geschirr abwaschen (auch ohne Reinigungsmittel einsetzbar) oder zum Entfernen von Krümeln auf Tischen und Arbeitsflächen. Das Spültuch lässt sich sehr gut reinigen und selbst Teig- und Fonduereste lassen sich problemlos auswaschen, ohne Reste im Spültuch zu hinterlassen. Es ist ebenfalls einsetzbar für die materialschonende Nassreinigung von Hochglanzoberflächen. Maße: 13 x 18 cm Zusammensetzung: 95% Viskose 5% Polyester</p><p><br></p><p>1 x CLEA*R Daily 500 ml Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p><br></p><p>1 x Handschuh Finish Der Handschuh Finish ist für alle Hochglanzoberflächen im gesamten Haushalt geeignet. Ob Badezimmer-, Wohn-, Schlafzimmermöbel oder Küche. Alle empfindlichen Oberflächen werden dank der speziellen Textur schonend und gründlich gereinigt. Material: 72% Tencel und 28% Polyester</p><p><br></p><p>Ihr Geschenk: 1 x Schaumpumpe</p>",
+          "meta_description": "Hochglanz-Set 11/21",
+          "meta_keywords": "Hochglanz-Set 11/21",
+          "product": {
+            "id": 630,
+            "name": "Hochglanz-Set 2021",
+            "description": "Hochglanz-Set 2021\n\n1 x CLEA*R Daily 500 ml\n1 x Spültuch\n1 x Handschuh Finish\n\nIhr Geschenk:\n1 x Schaumpumpe",
+            "number": 10017,
+            "maximum_sale_for_each_user": null,
+            "is_active": true,
+            "price_visible": true,
+            "default_vat": 19,
+            "auto_active_net_stock": false,
+            "auto_deactive_net_stock": false,
+            "max_order_quantity": null,
+            "min_order_quantity": 1,
+            "interval_order_quantity": null,
+            "release_date": null,
+            "available_until": null,
+            "file_id": 1361,
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/969459bcb13ab934f84c0b153f539ea5130ab040.jpg",
+            "partner": null,
+            "translate": [
+              {
+                "product_id": 630,
+                "locale": "de",
+                "name": "Hochglanz-Set 2021",
+                "description": "Hochglanz-Set 2021\n\n1 x CLEA*R Daily 500 ml\n1 x Spültuch\n1 x Handschuh Finish\n\nIhr Geschenk:\n1 x Schaumpumpe"
+              }
+            ],
+            "main_variation_id": 620
+          },
+          "productVariationFiles": [
+            {
+              "id": 1661,
+              "type": "image",
+              "title": "text",
+              "link": "/storage/b498197386646c87f67248c0970d50610acb3cff.jpg",
+              "sort": null,
+              "file": "/storage/ssfstg.solutions-apps.com/uploads/image/b498197386646c87f67248c0970d50610acb3cff.jpg",
+              "file_self_id": 1535
+            }
+          ],
+          "productVariationPrices": [
+            {
+              "id": 1966,
+              "value": 28.1512605,
+              "available_from": "2021-10-31T02:38:44.000000Z",
+              "minimum_quantity": 1,
+              "price": {
+                "id": 1752,
+                "interval": "none",
+                "display_for_new_item": true,
+                "min_quantity": 1,
+                "unit_price": null,
+                "created_at": "2021-10-30T20:39:59.000000Z",
+                "updated_at": "2021-10-30T20:39:59.000000Z",
+                "name": "Hochglanz-Set 11/21_sale_price",
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "priceType": {
+                  "id": 3,
+                  "name": "sale_price",
+                  "translate": [
+                    {
+                      "price_type_id": 3,
+                      "locale": "en",
+                      "name": "sale_price"
+                    }
+                  ]
+                },
+                "countries": [
+                  {
+                    "id": 83,
+                    "name": "Deutschland2",
+                    "default_warranty_days": 14,
+                    "max_tax_free_trade": null,
+                    "max_small_business_trade": null,
+                    "is_eeu": true,
+                    "iso2": "DE",
+                    "iso3": "DEU",
+                    "is_active": true,
+                    "is_default": true,
+                    "timezone": null,
+                    "currency": {
+                      "name": "Euro",
+                      "id": 49,
+                      "ratio": 1,
+                      "is_default": true,
+                      "symbol": "€",
+                      "iso3": "EUR",
+                      "is_active": true,
+                      "translate": [
+                        {
+                          "currency_id": 49,
+                          "locale": "en",
+                          "name": "Euro"
+                        }
+                      ]
+                    },
+                    "vats": [
+                      {
+                        "id": 2,
+                        "number": "nisi",
+                        "valid_from": "2021-09-30T01:00:51.000000Z",
+                        "value": 0
+                      },
+                      {
+                        "id": 3,
+                        "number": "DE-7",
+                        "valid_from": "2021-09-30T01:01:39.000000Z",
+                        "value": 7.7
+                      },
+                      {
+                        "id": 1,
+                        "number": "DE-19",
+                        "valid_from": "2021-09-30T01:00:46.000000Z",
+                        "value": 19
+                      }
+                    ],
+                    "translate": [
+                      {
+                        "country_id": 83,
+                        "locale": "de",
+                        "name": "Deutschland2"
+                      },
+                      {
+                        "country_id": 83,
+                        "locale": "en",
+                        "name": "Germany"
+                      }
+                    ]
+                  }
+                ],
+                "translate": [
+                  {
+                    "price_id": 1752,
+                    "locale": "en",
+                    "name": "Hochglanz-Set 11/21_sale_price"
+                  }
+                ]
+              }
+            }
+          ],
+          "vats": [
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19,
+              "country": {
+                "id": 83,
+                "name": "Deutschland2",
+                "default_warranty_days": 14,
+                "max_tax_free_trade": null,
+                "max_small_business_trade": null,
+                "is_eeu": true,
+                "iso2": "DE",
+                "iso3": "DEU",
+                "is_active": true,
+                "is_default": true,
+                "timezone": null,
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "vats": [
+                  {
+                    "id": 2,
+                    "number": "nisi",
+                    "valid_from": "2021-09-30T01:00:51.000000Z",
+                    "value": 0
+                  },
+                  {
+                    "id": 3,
+                    "number": "DE-7",
+                    "valid_from": "2021-09-30T01:01:39.000000Z",
+                    "value": 7.7
+                  },
+                  {
+                    "id": 1,
+                    "number": "DE-19",
+                    "valid_from": "2021-09-30T01:00:46.000000Z",
+                    "value": 19
+                  }
+                ],
+                "translate": [
+                  {
+                    "country_id": 83,
+                    "locale": "de",
+                    "name": "Deutschland2"
+                  },
+                  {
+                    "country_id": 83,
+                    "locale": "en",
+                    "name": "Germany"
+                  }
+                ]
+              }
+            }
+          ],
+          "productVariationVats": [
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19,
+              "country": {
+                "id": 83,
+                "name": "Deutschland2",
+                "default_warranty_days": 14,
+                "max_tax_free_trade": null,
+                "max_small_business_trade": null,
+                "is_eeu": true,
+                "iso2": "DE",
+                "iso3": "DEU",
+                "is_active": true,
+                "is_default": true,
+                "timezone": null,
+                "currency": {
+                  "name": "Euro",
+                  "id": 49,
+                  "ratio": 1,
+                  "is_default": true,
+                  "symbol": "€",
+                  "iso3": "EUR",
+                  "is_active": true,
+                  "translate": [
+                    {
+                      "currency_id": 49,
+                      "locale": "en",
+                      "name": "Euro"
+                    }
+                  ]
+                },
+                "vats": [
+                  {
+                    "id": 2,
+                    "number": "nisi",
+                    "valid_from": "2021-09-30T01:00:51.000000Z",
+                    "value": 0
+                  },
+                  {
+                    "id": 3,
+                    "number": "DE-7",
+                    "valid_from": "2021-09-30T01:01:39.000000Z",
+                    "value": 7.7
+                  },
+                  {
+                    "id": 1,
+                    "number": "DE-19",
+                    "valid_from": "2021-09-30T01:00:46.000000Z",
+                    "value": 19
+                  }
+                ],
+                "translate": [
+                  {
+                    "country_id": 83,
+                    "locale": "de",
+                    "name": "Deutschland2"
+                  },
+                  {
+                    "country_id": 83,
+                    "locale": "en",
+                    "name": "Germany"
+                  }
+                ]
+              }
+            }
+          ],
+          "translate": [
+            {
+              "product_variation_id": 620,
+              "locale": "de",
+              "name": "Hochglanz-Set 11/21",
+              "description": "<p>Sie haben Hochglanzoberflächen in Ihrer Küche, Bad oder Wohnbereich? Oder empfindliche Oberfläche, wo die \"normale\" Microfaser nicht zum Einsatz kommen soll?</p><p>Dann haben wir hier mit dem Cleafin Hochglanz-Set genau das Richtige für Sie!</p><p>Auf das feuchte Spültuch geben Sie mit der Schaumpumpe ganz wenig CLEA´R Daily und können die Oberflächen schnell und einfach reinigen. Fingerabdrücke, Fettspritzer und andere Verschmutzungen bekommen Sie so sehr schnell gelöst und aufgenommen. Jetzt nur noch mit dem Handschuh Finish nachtrocknen, damit Sie einen streifenfreien Glanz erhalten.</p><p>Im Set enthalten:</p><ul><li>1 x CLEA*R Daily 500 ml</li><li>1 x Spültuch</li><li>1 x Handschuh Finish</li><li>Ihr Geschenk: 1 x Schaumpumpe</li></ul><p><br></p><p>CLEA´R Daily ist auch in einzeln lieferbar, einfach bei Bedarf anklicken:</p><p><a href=\"/products/50/50\" rel=\"noopener noreferrer\" target=\"_blank\">500-ml Flasche</a>, <a href=\"/products/51/51\" rel=\"noopener noreferrer\" target=\"_blank\">6x500-ml Flaschen</a>, <a href=\"/products/52/52\" rel=\"noopener noreferrer\" target=\"_blank\">2-L Kanister</a>, <a href=\"/products/53/53\" rel=\"noopener noreferrer\" target=\"_blank\">5-L Kanister</a>, <a href=\"/products/55/55\" rel=\"noopener noreferrer\" target=\"_blank\">10-L Kanister</a></p>",
+              "preview_text": "<p>Unser optimales Set für empfindliche Oberflächen, wie z.B.: Hochglanzfronten, Klavierlack usw.</p>",
+              "technical_data": "<p>1 x Spültuch: Das Cleafin-Spültuch ist ein handliches und zuverlässiges Küchen-Universaltuch mit vielseitigen Einsatzmöglichkeiten, z. B. zum Geschirr abwaschen (auch ohne Reinigungsmittel einsetzbar) oder zum Entfernen von Krümeln auf Tischen und Arbeitsflächen. Das Spültuch lässt sich sehr gut reinigen und selbst Teig- und Fonduereste lassen sich problemlos auswaschen, ohne Reste im Spültuch zu hinterlassen. Es ist ebenfalls einsetzbar für die materialschonende Nassreinigung von Hochglanzoberflächen. Maße: 13 x 18 cm Zusammensetzung: 95% Viskose 5% Polyester</p><p><br></p><p>1 x CLEA*R Daily 500 ml Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p><br></p><p>1 x Handschuh Finish Der Handschuh Finish ist für alle Hochglanzoberflächen im gesamten Haushalt geeignet. Ob Badezimmer-, Wohn-, Schlafzimmermöbel oder Küche. Alle empfindlichen Oberflächen werden dank der speziellen Textur schonend und gründlich gereinigt. Material: 72% Tencel und 28% Polyester</p><p><br></p><p>Ihr Geschenk: 1 x Schaumpumpe</p>",
+              "meta_description": "Hochglanz-Set 11/21",
+              "meta_keywords": "Hochglanz-Set 11/21"
+            }
+          ]
+        }
+      ],
+      "multiProductVariations": [],
+      "shippingProfiles": [
+        {
+          "id": 1,
+          "type": "post",
+          "name": "DHL",
+          "tracking_link": "DHL.com",
+          "icon_id": null,
+          "icon": null,
+          "partner": {
+            "id": 1,
+            "user_id": 2,
+            "left_tree": 1,
+            "right_tree": 2,
+            "mobile": null,
+            "bank_name": "Gregg Crooks DDS",
+            "iban": "AT138697461826368254",
+            "default_warranty_days": 11,
+            "swift": "Loraine Ward",
+            "receive_vat_responsible": false,
+            "send_vat_responsible": false,
+            "active_auto_bonus": true,
+            "active_training_bonus": false,
+            "post_delivery_factor": false,
+            "receive_commission": true,
+            "can_buy": true,
+            "transportation_ratio_percentage": 55,
+            "over_personal_turnover": false,
+            "can_see_down_line": false,
+            "inhouse_sale": false,
+            "has_network": true,
+            "has_btob": false,
+            "has_btoc": true,
+            "has_warehouse": false,
+            "has_delivery": false,
+            "warranty_days": 1,
+            "max_client_root": 4,
+            "created_at": "2021-10-01T00:32:27.000000Z",
+            "updated_at": "2021-10-01T00:32:27.000000Z",
+            "is_active": true,
+            "is_approved": true,
+            "country_id": 19,
+            "data": null
+          }
+        }
+      ],
+      "productVariationFiles": [
+        {
+          "id": 1800,
+          "type": "image",
+          "title": "1",
+          "link": "/storage/ssfstg.solutions-apps.com/uploads/image/b43e40d4d2de625a619a7e61c7c9b0c7f075b62a.jpg",
+          "sort": null,
+          "file": "/storage/ssfstg.solutions-apps.com/uploads/image/b43e40d4d2de625a619a7e61c7c9b0c7f075b62a.jpg",
+          "file_self_id": 1719
+        }
+      ],
+      "productVariationPrices": [
+        {
+          "id": 2045,
+          "value": 41.055,
+          "available_from": "2021-12-01T01:42:37.000000Z",
+          "minimum_quantity": 1,
+          "price": {
+            "id": 1993,
+            "interval": "none",
+            "display_for_new_item": true,
+            "min_quantity": 1,
+            "unit_price": null,
+            "created_at": "2021-12-02T15:47:08.000000Z",
+            "updated_at": "2021-12-02T15:47:08.000000Z",
+            "name": "Advent-Türchen Nr. 5_sale_price",
+            "currency": {
+              "name": "Euro",
+              "id": 49,
+              "ratio": 1,
+              "is_default": true,
+              "symbol": "€",
+              "iso3": "EUR",
+              "is_active": true,
+              "translate": [
+                {
+                  "currency_id": 49,
+                  "locale": "en",
+                  "name": "Euro"
+                }
+              ]
+            },
+            "priceType": {
+              "id": 3,
+              "name": "sale_price",
+              "translate": [
+                {
+                  "price_type_id": 3,
+                  "locale": "en",
+                  "name": "sale_price"
+                }
+              ]
+            },
+            "translate": [
+              {
+                "price_id": 1993,
+                "locale": "en",
+                "name": "Advent-Türchen Nr. 5_sale_price"
+              }
+            ]
+          }
+        }
+      ],
+      "userVariationPrices": [],
+      "productVariationSuppliers": [],
+      "productVariationCategories": [
+        {
+          "id": 1,
+          "partner_id": null,
+          "subdomain_id": null,
+          "name": "physical",
+          "translate": [
+            {
+              "product_variation_category_id": 1,
+              "locale": "de",
+              "name": "physical"
+            },
+            {
+              "product_variation_category_id": 1,
+              "locale": "en",
+              "name": "physical"
+            }
+          ],
+          "parent": {
+            "id": 3,
+            "partner_id": null,
+            "subdomain_id": null,
+            "name": "Digitale",
+            "translate": [
+              {
+                "product_variation_category_id": 3,
+                "locale": "de",
+                "name": "Digitale"
+              },
+              {
+                "product_variation_category_id": 3,
+                "locale": "en",
+                "name": "Digital"
+              }
+            ],
+            "parent": null
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "id": 4573,
+          "visible": false,
+          "value": "1",
+          "attribute_type_id": 1,
+          "product_variation_id": 646,
+          "attributeType": {
+            "id": 1,
+            "name": "Größeee",
+            "partner_id": null,
+            "subdomain_id": null,
+            "translate": [
+              {
+                "attribute_type_id": 1,
+                "locale": "de",
+                "name": "Größeee"
+              },
+              {
+                "attribute_type_id": 1,
+                "locale": "en",
+                "name": "Size"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "attribute_id": 4573,
+              "locale": "de",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "id": 4574,
+          "visible": false,
+          "value": "1",
+          "attribute_type_id": 2,
+          "product_variation_id": 646,
+          "attributeType": {
+            "id": 2,
+            "name": "weight",
+            "partner_id": null,
+            "subdomain_id": null,
+            "translate": [
+              {
+                "attribute_type_id": 2,
+                "locale": "en",
+                "name": "weight"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "attribute_id": 4574,
+              "locale": "de",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "id": 4575,
+          "visible": false,
+          "value": "1",
+          "attribute_type_id": 3,
+          "product_variation_id": 646,
+          "attributeType": {
+            "id": 3,
+            "name": "Länge",
+            "partner_id": null,
+            "subdomain_id": null,
+            "translate": [
+              {
+                "attribute_type_id": 3,
+                "locale": "de",
+                "name": "Länge"
+              },
+              {
+                "attribute_type_id": 3,
+                "locale": "en",
+                "name": "length"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "attribute_id": 4575,
+              "locale": "de",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "id": 4576,
+          "visible": false,
+          "value": "1",
+          "attribute_type_id": 4,
+          "product_variation_id": 646,
+          "attributeType": {
+            "id": 4,
+            "name": "Breite",
+            "partner_id": null,
+            "subdomain_id": null,
+            "translate": [
+              {
+                "attribute_type_id": 4,
+                "locale": "de",
+                "name": "Breite"
+              },
+              {
+                "attribute_type_id": 4,
+                "locale": "en",
+                "name": "Width"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "attribute_id": 4576,
+              "locale": "de",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "id": 4577,
+          "visible": false,
+          "value": "1",
+          "attribute_type_id": 5,
+          "product_variation_id": 646,
+          "attributeType": {
+            "id": 5,
+            "name": "Höhe",
+            "partner_id": null,
+            "subdomain_id": null,
+            "translate": [
+              {
+                "attribute_type_id": 5,
+                "locale": "de",
+                "name": "Höhe"
+              },
+              {
+                "attribute_type_id": 5,
+                "locale": "en",
+                "name": "Height"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "attribute_id": 4577,
+              "locale": "de",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "packages": [],
+      "vats": [
+        {
+          "id": 1,
+          "number": "DE-19",
+          "valid_from": "2021-09-30T01:00:46.000000Z",
+          "value": 19,
+          "country": {
+            "id": 83,
+            "name": "Deutschland2",
+            "default_warranty_days": 14,
+            "max_tax_free_trade": null,
+            "max_small_business_trade": null,
+            "is_eeu": true,
+            "iso2": "DE",
+            "iso3": "DEU",
+            "is_active": true,
+            "is_default": true,
+            "timezone": null,
+            "currency": {
+              "name": "Euro",
+              "id": 49,
+              "ratio": 1,
+              "is_default": true,
+              "symbol": "€",
+              "iso3": "EUR",
+              "is_active": true,
+              "translate": [
+                {
+                  "currency_id": 49,
+                  "locale": "en",
+                  "name": "Euro"
+                }
+              ]
+            },
+            "vats": [
+              {
+                "id": 2,
+                "number": "nisi",
+                "valid_from": "2021-09-30T01:00:51.000000Z",
+                "value": 0
+              },
+              {
+                "id": 3,
+                "number": "DE-7",
+                "valid_from": "2021-09-30T01:01:39.000000Z",
+                "value": 7.7
+              },
+              {
+                "id": 1,
+                "number": "DE-19",
+                "valid_from": "2021-09-30T01:00:46.000000Z",
+                "value": 19
+              }
+            ],
+            "translate": [
+              {
+                "country_id": 83,
+                "locale": "de",
+                "name": "Deutschland2"
+              },
+              {
+                "country_id": 83,
+                "locale": "en",
+                "name": "Germany"
+              }
+            ]
+          }
+        }
+      ],
+      "productVariationVats": [
+        {
+          "id": 1,
+          "number": "DE-19",
+          "valid_from": "2021-09-30T01:00:46.000000Z",
+          "value": 19,
+          "country": {
+            "id": 83,
+            "name": "Deutschland2",
+            "default_warranty_days": 14,
+            "max_tax_free_trade": null,
+            "max_small_business_trade": null,
+            "is_eeu": true,
+            "iso2": "DE",
+            "iso3": "DEU",
+            "is_active": true,
+            "is_default": true,
+            "timezone": null,
+            "currency": {
+              "name": "Euro",
+              "id": 49,
+              "ratio": 1,
+              "is_default": true,
+              "symbol": "€",
+              "iso3": "EUR",
+              "is_active": true,
+              "translate": [
+                {
+                  "currency_id": 49,
+                  "locale": "en",
+                  "name": "Euro"
+                }
+              ]
+            },
+            "vats": [
+              {
+                "id": 2,
+                "number": "nisi",
+                "valid_from": "2021-09-30T01:00:51.000000Z",
+                "value": 0
+              },
+              {
+                "id": 3,
+                "number": "DE-7",
+                "valid_from": "2021-09-30T01:01:39.000000Z",
+                "value": 7.7
+              },
+              {
+                "id": 1,
+                "number": "DE-19",
+                "valid_from": "2021-09-30T01:00:46.000000Z",
+                "value": 19
+              }
+            ],
+            "translate": [
+              {
+                "country_id": 83,
+                "locale": "de",
+                "name": "Deutschland2"
+              },
+              {
+                "country_id": 83,
+                "locale": "en",
+                "name": "Germany"
+              }
+            ]
+          }
+        }
+      ],
+      "unit": null,
+      "translate": [
+        {
+          "product_variation_id": 646,
+          "locale": "de",
+          "name": "Advent-Türchen Nr. 5",
+          "description": "<p>Trocken ist die Bodenfaser Nummer 1 optimal geeignet zum Staubwischen auf glatten Böden, u.a. für Parkett (lackiert/geölt), Laminat, Fliesen, PVC, Granit, Kork und Cotto-Beläge. Durch die Reibung lädt sich die Bodenfaser elektrostatisch auf und hält Staub, Haare und Fusseln fest.</p><p>Sie kann auch leicht feucht angewendet werden, etwa auf Kork (versiegelt, lackiert), Laminat, Parkett (lackiert), Granit (glänzend poliert) oder Marmor (poliert). Tipp: Die Faser während der Reinigung hin und wieder mit einer Sprühflasche benetzen.</p>",
+          "preview_text": "<p>Advent-Türchen Nr. 5 Achtung: Jeden</p><p>Tagöffnet sich ein Advent-Türchen. <strong>Dieses</strong></p><p><strong>Angebot gilt am Tag der Nummer und</strong></p><p><strong>am folge Tag.</strong></p>",
+          "technical_data": "<p>Optimal für glatte Oberflächen, bei rauen Bodenbeläge könnte die Faser verfilzen und kann dann nicht mehr richtig arbeiten.</p><p>Zusammensetzung: 100% Polyester-Microfaser</p><p>Waschbar bei 60 Grad in Ihrer Waschmaschine, ohne Weichspüler</p>",
+          "meta_description": ".",
+          "meta_keywords": "."
+        }
+      ]
+    },
+    "userQty": 1,
+    "price": {
+      "value": 43.969905,
+      "currency": "€"
+    }
+  }
+]

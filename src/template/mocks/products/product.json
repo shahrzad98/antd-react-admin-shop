@@ -1,0 +1,1815 @@
+[
+  {
+    "id": 603,
+    "number": "10001",
+    "is_main": true,
+    "is_active": true,
+    "inherit": true,
+    "quantity": 120,
+    "maximum_sale_for_each_user": null,
+    "max_order_quantity": 999,
+    "min_order_quantity": 1,
+    "release_date": null,
+    "available_until": null,
+    "auto_active_net_stock": false,
+    "auto_deactivate_net_stock": false,
+    "type": "single",
+    "average_rating": null,
+    "by_exist_product": null,
+    "review_count": 24,
+    "weight": null,
+    "unit_id": null,
+    "availability_id": 1,
+    "name": "Beginner-Set Kiwigrün 2021",
+    "description": "<p>1 x Clean S Kiwigrün&nbsp;(35 x 40 cm) Das Clean-Tuch in der Größe S ist für leichte und tägliche Verschmutzung perfekt geeignet. Es ist feucht bis nass, aber auch zum Nachtrocknen universell einsetzbar. Die besonders feine Struktur macht die Cleafin-Microfasertücher außergewöhnlich weich, nimmt Schmutz extrem gut auf und sorgt für eine fussel- und streifenfreie Reinigung in jedem Fensterbereich. Einsetzbar ist das Clean-Tuch z. B. auf Fensterrahmen, Rollläden, Fensterbänken und -rillen. Maße: 40 x 35 cm</p><p>1 x Finish L Kiwigrün&nbsp;(45 x 55 cm) Die Cleafin Finish-Tücher werden hauptsächlich zum Nachtrocknen von Fenster- und Spiegelflächen angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel – und streifenfreies Ergebnis. Selbstverständlich sind die Finish-Tücher sehr gut geeignet für das Nachtrocknen aller anderen Oberflächen im Badezimmerbereich und können auch leicht feucht angewendet werden.</p><p><br></p><p>Ihr Geschenk:</p><p>1 x CLEA*R Glass+ 50 ml Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.</p>",
+    "preview_text": "<p>probieren Sie Cleafin mit diesem Set aus: optimal für alle Fenster und Spiegel</p>",
+    "technical_data": "<p>1 x Clean S Kiwigrün&nbsp;(35 x 40 cm)</p><p>Zusammensetzung:</p><p>80% Polyester-Microfaser</p><p>20% Polyamid-Microfaser</p><p>1 x Finish L Kiwigrün&nbsp;(45 x 55 cm)</p><p>Zusammensetzung:</p><p>80% Polyester-Microfaser</p><p>20% Polyamid-Microfaser</p><p>für beide Tücher gilt: bei empfindlichen Oberflächen bitte Herstellerempfehlung beachten. Bei normalen Glas und Spiegeln ist es kein Problem.</p><p>1 x CLEA*R Glass + 50 ml Inhaltsstoffe nach Detergenzienverordnung:&nbsp;&lt;5% anionische Tenside. Weitere Inhaltsstoffe: wasserlösliche Lösemittel, Methylisothiazolinone, Methylchloroisothiazolinone.</p>",
+    "meta_description": "Beginner-Set Kiwigrün 11/21",
+    "meta_keywords": "Beginner-Set Kiwigrün 11/21",
+    "availability": {
+      "id": 1,
+      "name": "Auf Lager",
+      "average_days": 2,
+      "file_id": 1263,
+      "file": "/storage/ssfstg.solutions-apps.com/uploads/image/176f67242c298d28418f32e55d7e33d3bafc4929.svg",
+      "translate": [
+        {
+          "availability_id": 1,
+          "locale": "de",
+          "name": "Auf Lager"
+        },
+        {
+          "availability_id": 1,
+          "locale": "en",
+          "name": "Instock"
+        }
+      ]
+    },
+    "product": {
+      "id": 603,
+      "name": "Beginner-Set Kiwigrün 2021",
+      "description": "1 x Clean S Kiwigrün (35 x 40 cm)\n1 x Finish L Kiwigrün (45 x 55 cm)\n\nIhr Geschenk:\n1 x CLEA*R Glass+ 50 ml",
+      "number": 10001,
+      "maximum_sale_for_each_user": null,
+      "is_active": true,
+      "price_visible": true,
+      "default_vat": 19,
+      "auto_active_net_stock": false,
+      "auto_deactive_net_stock": false,
+      "max_order_quantity": null,
+      "min_order_quantity": 1,
+      "interval_order_quantity": 10,
+      "release_date": null,
+      "available_until": null,
+      "file_id": 1328,
+      "sort": null,
+      "file": "/storage/ssfstg.solutions-apps.com/uploads/image/2d27da3b2efed2ad7e1c6d9184e65966a85f9e07.jpg",
+      "partner": null,
+      "translate": [
+        {
+          "product_id": 603,
+          "locale": "de",
+          "name": "Beginner-Set Kiwigrün 2021",
+          "description": "1 x Clean S Kiwigrün (35 x 40 cm)\n1 x Finish L Kiwigrün (45 x 55 cm)\n\nIhr Geschenk:\n1 x CLEA*R Glass+ 50 ml"
+        }
+      ],
+      "main_variation_id": 603
+    },
+    "crossSellingVariations": [
+      {
+        "id": 10,
+        "number": "10211",
+        "is_main": true,
+        "is_active": true,
+        "inherit": true,
+        "quantity": 1,
+        "maximum_sale_for_each_user": null,
+        "max_order_quantity": null,
+        "min_order_quantity": null,
+        "release_date": null,
+        "available_until": null,
+        "auto_active_net_stock": false,
+        "auto_deactivate_net_stock": false,
+        "type": "single",
+        "average_rating": null,
+        "by_exist_product": null,
+        "review_count": 2,
+        "weight": "0.1190",
+        "unit_id": null,
+        "availability_id": 1,
+        "name": "Finish Tuch L Fenster",
+        "description": "<p>Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.</p>",
+        "preview_text": "<p>Das Finish-Tuch L, Maße: 45 x 55 cm zum Nachtrocknen von Glas, Fenstern und Spiegeln</p>",
+        "technical_data": "<p>Maße: 45 x 55 cm Zusammensetzung: 80% Polyester-Microfaser 20% Polyamid-Microfaser</p>",
+        "meta_description": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser",
+        "meta_keywords": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser",
+        "product": {
+          "id": 10,
+          "name": "Finish Tuch L Fenster",
+          "description": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser",
+          "number": 10211,
+          "maximum_sale_for_each_user": 999,
+          "is_active": true,
+          "price_visible": true,
+          "default_vat": 19,
+          "auto_active_net_stock": false,
+          "auto_deactive_net_stock": false,
+          "max_order_quantity": null,
+          "min_order_quantity": 1,
+          "interval_order_quantity": 10,
+          "release_date": "2021-10-01T00:00:00.000000Z",
+          "available_until": "2021-10-01T00:00:00.000000Z",
+          "file_id": 1559,
+          "sort": null,
+          "file": "/storage/ssfstg.solutions-apps.com/uploads/image/ed95ab88c7bd1a6c36e63659f0d763d0d9112930.jpg",
+          "partner": null,
+          "translate": [
+            {
+              "product_id": 10,
+              "locale": "de",
+              "name": "Finish Tuch L Fenster",
+              "description": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser"
+            }
+          ],
+          "main_variation_id": 10
+        },
+        "productVariationFiles": [
+          {
+            "id": 33,
+            "type": "image",
+            "title": "title",
+            "link": null,
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/8823fc506be095d973c08a0a10cc4327133beb99.jpg",
+            "file_self_id": 49
+          },
+          {
+            "id": 34,
+            "type": "image",
+            "title": "title",
+            "link": null,
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/b0da34e165cb7af406e03f5851c86fb7c3bd9fa4.jpg",
+            "file_self_id": 50
+          }
+        ],
+        "productVariationPrices": [
+          {
+            "id": 1222,
+            "value": 15.9663865546,
+            "available_from": "2021-10-02T00:00:00.000000Z",
+            "minimum_quantity": 1,
+            "price": {
+              "id": 1216,
+              "interval": "none",
+              "display_for_new_item": false,
+              "min_quantity": 1,
+              "unit_price": null,
+              "created_at": "2021-10-13T10:23:59.000000Z",
+              "updated_at": "2021-10-13T10:23:59.000000Z",
+              "name": "name_199",
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "priceType": {
+                "id": 3,
+                "name": "sale_price",
+                "translate": [
+                  {
+                    "price_type_id": 3,
+                    "locale": "en",
+                    "name": "sale_price"
+                  }
+                ]
+              },
+              "countries": [],
+              "translate": [
+                {
+                  "price_id": 1216,
+                  "locale": "en",
+                  "name": "name_199"
+                }
+              ]
+            }
+          }
+        ],
+        "vats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "productVariationVats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "translate": [
+          {
+            "product_variation_id": 10,
+            "locale": "de",
+            "name": "Finish Tuch L Fenster",
+            "description": "<p>Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.</p>",
+            "preview_text": "<p>Das Finish-Tuch L, Maße: 45 x 55 cm zum Nachtrocknen von Glas, Fenstern und Spiegeln</p>",
+            "technical_data": "<p>Maße: 45 x 55 cm Zusammensetzung: 80% Polyester-Microfaser 20% Polyamid-Microfaser</p>",
+            "meta_description": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser",
+            "meta_keywords": "Das Finish-Tuch wird hauptsächlich zum Nachtrocknen von Glas, Fenstern und Spiegeln angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel- und streifenfreies Ergebnis. Selbstverständlich ist das Finish-Tuch auch sehr gut für das Nachtrocknen aller anderen Oberflächen im Fensterbereich geeignet.\r\n\r\nMaße:\r\n45 x 55 cm\r\n\r\nZusammensetzung: \r\n80% Polyester-Microfaser \r\n20% Polyamid-Microfaser"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "number": "10301",
+        "is_main": true,
+        "is_active": true,
+        "inherit": true,
+        "quantity": 1,
+        "maximum_sale_for_each_user": null,
+        "max_order_quantity": null,
+        "min_order_quantity": null,
+        "release_date": null,
+        "available_until": null,
+        "auto_active_net_stock": false,
+        "auto_deactivate_net_stock": false,
+        "type": "single",
+        "average_rating": null,
+        "by_exist_product": null,
+        "review_count": 10,
+        "weight": "0.5900",
+        "unit_id": 92,
+        "availability_id": 1,
+        "name": "Glass + 500 ml *",
+        "description": "<pre class=\"ql-syntax\" spellcheck=\"false\">Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\n</pre><p>Auch in der 6-er Verpackungseinheit und im Kanister lieferbar.</p><p class=\"ql-align-center\">* Für diesen Reiniger benötigen Sie eine Schaumpumpe. - <a href=\"/products/121\" rel=\"noopener noreferrer\" target=\"_blank\">HIER</a></p>",
+        "preview_text": "<p>der starke Helfer für die Glas- und Spiegelreinigung</p>",
+        "technical_data": "<ul><li>1 x CLEA*R Glass + 500 ml Inhaltsstoffe nach Detergenzienverordnung:&nbsp;&lt;5% anionische Tenside. Weitere Inhaltsstoffe: wasserlösliche Lösemittel, Methylisothiazolinone, Methylchloroisothiazolinone.</li><li>Weitere Eigenschaften: vegan, frei von Farbstoffen, ohne Mikroplastik, Made in Germany, entwickelt und hergestellt ohne Tierversuche, sehr ergiebig</li></ul>",
+        "meta_description": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen.",
+        "meta_keywords": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen.",
+        "product": {
+          "id": 12,
+          "name": "Glass + 500 ml *",
+          "description": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen.",
+          "number": 10301,
+          "maximum_sale_for_each_user": 999,
+          "is_active": true,
+          "price_visible": true,
+          "default_vat": 19,
+          "auto_active_net_stock": false,
+          "auto_deactive_net_stock": false,
+          "max_order_quantity": null,
+          "min_order_quantity": 1,
+          "interval_order_quantity": 10,
+          "release_date": "2021-10-01T00:00:00.000000Z",
+          "available_until": "2021-10-01T00:00:00.000000Z",
+          "file_id": 1562,
+          "sort": null,
+          "file": "/storage/ssfstg.solutions-apps.com/uploads/image/aa2c0c8fbf75f9262030952ead58e55dc3429a25.jpg",
+          "partner": null,
+          "translate": [
+            {
+              "product_id": 12,
+              "locale": "de",
+              "name": "Glass + 500 ml *",
+              "description": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen."
+            }
+          ],
+          "main_variation_id": 12
+        },
+        "productVariationFiles": [
+          {
+            "id": 1456,
+            "type": "image",
+            "title": "title",
+            "link": "/storage/06989e0c3d594e30b44deee1fb08e4f211f97560.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/06989e0c3d594e30b44deee1fb08e4f211f97560.jpeg",
+            "file_self_id": 1475
+          },
+          {
+            "id": 1457,
+            "type": "image",
+            "title": "title",
+            "link": "/storage/7df9132e3238131c2960b6bde436ea85f405d697.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/7df9132e3238131c2960b6bde436ea85f405d697.jpg",
+            "file_self_id": 53
+          },
+          {
+            "id": 1458,
+            "type": "image",
+            "title": "title",
+            "link": "/storage/7df9132e3238131c2960b6bde436ea85f405d697.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/7df9132e3238131c2960b6bde436ea85f405d697.jpg",
+            "file_self_id": 54
+          },
+          {
+            "id": 1459,
+            "type": "image",
+            "title": "title",
+            "link": "/storage/d5b24d8da2d8c80a3530eb9c43399461477fb2f4.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/d5b24d8da2d8c80a3530eb9c43399461477fb2f4.jpg",
+            "file_self_id": 55
+          },
+          {
+            "id": 1460,
+            "type": "image",
+            "title": "title",
+            "link": "/storage/192aa1953918f6575e69b92817b9d6d9fdac18e2.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/192aa1953918f6575e69b92817b9d6d9fdac18e2.jpg",
+            "file_self_id": 56
+          }
+        ],
+        "productVariationPrices": [
+          {
+            "id": 1858,
+            "value": 4.2016806723,
+            "available_from": "2021-10-02T04:00:00.000000Z",
+            "minimum_quantity": 1,
+            "price": {
+              "id": 1218,
+              "interval": "none",
+              "display_for_new_item": true,
+              "min_quantity": 1,
+              "unit_price": 8.404,
+              "created_at": "2021-10-13T10:23:59.000000Z",
+              "updated_at": "2021-10-31T17:40:44.000000Z",
+              "name": "Glass + 500 ml *_sale_price",
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "priceType": {
+                "id": 3,
+                "name": "sale_price",
+                "translate": [
+                  {
+                    "price_type_id": 3,
+                    "locale": "en",
+                    "name": "sale_price"
+                  }
+                ]
+              },
+              "countries": [
+                {
+                  "id": 83,
+                  "name": "Deutschland2",
+                  "default_warranty_days": 14,
+                  "max_tax_free_trade": null,
+                  "max_small_business_trade": null,
+                  "is_eeu": true,
+                  "iso2": "DE",
+                  "iso3": "DEU",
+                  "is_active": true,
+                  "is_default": true,
+                  "timezone": null,
+                  "currency": {
+                    "name": "Euro",
+                    "id": 49,
+                    "ratio": 1,
+                    "is_default": true,
+                    "symbol": "€",
+                    "iso3": "EUR",
+                    "is_active": true,
+                    "translate": [
+                      {
+                        "currency_id": 49,
+                        "locale": "en",
+                        "name": "Euro"
+                      }
+                    ]
+                  },
+                  "vats": [
+                    {
+                      "id": 2,
+                      "number": "nisi",
+                      "valid_from": "2021-09-30T01:00:51.000000Z",
+                      "value": 0
+                    },
+                    {
+                      "id": 3,
+                      "number": "DE-7",
+                      "valid_from": "2021-09-30T01:01:39.000000Z",
+                      "value": 7.7
+                    },
+                    {
+                      "id": 1,
+                      "number": "DE-19",
+                      "valid_from": "2021-09-30T01:00:46.000000Z",
+                      "value": 19
+                    }
+                  ],
+                  "translate": [
+                    {
+                      "country_id": 83,
+                      "locale": "de",
+                      "name": "Deutschland2"
+                    },
+                    {
+                      "country_id": 83,
+                      "locale": "en",
+                      "name": "Germany"
+                    }
+                  ]
+                }
+              ],
+              "translate": [
+                {
+                  "price_id": 1218,
+                  "locale": "en",
+                  "name": "Glass + 500 ml *_sale_price"
+                }
+              ]
+            }
+          }
+        ],
+        "vats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "productVariationVats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "translate": [
+          {
+            "product_variation_id": 12,
+            "locale": "de",
+            "name": "Glass + 500 ml *",
+            "description": "<pre class=\"ql-syntax\" spellcheck=\"false\">Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\n</pre><p>Auch in der 6-er Verpackungseinheit und im Kanister lieferbar.</p><p class=\"ql-align-center\">* Für diesen Reiniger benötigen Sie eine Schaumpumpe. - <a href=\"/products/121\" rel=\"noopener noreferrer\" target=\"_blank\">HIER</a></p>",
+            "preview_text": "<p>der starke Helfer für die Glas- und Spiegelreinigung</p>",
+            "technical_data": "<ul><li>1 x CLEA*R Glass + 500 ml Inhaltsstoffe nach Detergenzienverordnung:&nbsp;&lt;5% anionische Tenside. Weitere Inhaltsstoffe: wasserlösliche Lösemittel, Methylisothiazolinone, Methylchloroisothiazolinone.</li><li>Weitere Eigenschaften: vegan, frei von Farbstoffen, ohne Mikroplastik, Made in Germany, entwickelt und hergestellt ohne Tierversuche, sehr ergiebig</li></ul>",
+            "meta_description": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen.",
+            "meta_keywords": "Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.\r\n\r\n* Für diesen Reiniger benötigen Sie eine Schaumpumpe.\r\n\r\nKennzeichnungselemente:\r\n\r\nDarf nicht in die Hände von Kindern gelangen."
+          }
+        ]
+      },
+      {
+        "id": 620,
+        "number": "10017",
+        "is_main": true,
+        "is_active": true,
+        "inherit": false,
+        "quantity": 10,
+        "maximum_sale_for_each_user": null,
+        "max_order_quantity": null,
+        "min_order_quantity": null,
+        "release_date": null,
+        "available_until": null,
+        "auto_active_net_stock": false,
+        "auto_deactivate_net_stock": false,
+        "type": "single",
+        "average_rating": null,
+        "by_exist_product": null,
+        "review_count": 41,
+        "weight": null,
+        "unit_id": null,
+        "availability_id": 1,
+        "name": "Hochglanz-Set 11/21",
+        "description": "<p>Sie haben Hochglanzoberflächen in Ihrer Küche, Bad oder Wohnbereich? Oder empfindliche Oberfläche, wo die \"normale\" Microfaser nicht zum Einsatz kommen soll?</p><p>Dann haben wir hier mit dem Cleafin Hochglanz-Set genau das Richtige für Sie!</p><p>Auf das feuchte Spültuch geben Sie mit der Schaumpumpe ganz wenig CLEA´R Daily und können die Oberflächen schnell und einfach reinigen. Fingerabdrücke, Fettspritzer und andere Verschmutzungen bekommen Sie so sehr schnell gelöst und aufgenommen. Jetzt nur noch mit dem Handschuh Finish nachtrocknen, damit Sie einen streifenfreien Glanz erhalten.</p><p>Im Set enthalten:</p><ul><li>1 x CLEA*R Daily 500 ml</li><li>1 x Spültuch</li><li>1 x Handschuh Finish</li><li>Ihr Geschenk: 1 x Schaumpumpe</li></ul><p><br></p><p>CLEA´R Daily ist auch in einzeln lieferbar, einfach bei Bedarf anklicken:</p><p><a href=\"/products/50/50\" rel=\"noopener noreferrer\" target=\"_blank\">500-ml Flasche</a>, <a href=\"/products/51/51\" rel=\"noopener noreferrer\" target=\"_blank\">6x500-ml Flaschen</a>, <a href=\"/products/52/52\" rel=\"noopener noreferrer\" target=\"_blank\">2-L Kanister</a>, <a href=\"/products/53/53\" rel=\"noopener noreferrer\" target=\"_blank\">5-L Kanister</a>, <a href=\"/products/55/55\" rel=\"noopener noreferrer\" target=\"_blank\">10-L Kanister</a></p>",
+        "preview_text": "<p>Unser optimales Set für empfindliche Oberflächen, wie z.B.: Hochglanzfronten, Klavierlack usw.</p>",
+        "technical_data": "<p>1 x Spültuch: Das Cleafin-Spültuch ist ein handliches und zuverlässiges Küchen-Universaltuch mit vielseitigen Einsatzmöglichkeiten, z. B. zum Geschirr abwaschen (auch ohne Reinigungsmittel einsetzbar) oder zum Entfernen von Krümeln auf Tischen und Arbeitsflächen. Das Spültuch lässt sich sehr gut reinigen und selbst Teig- und Fonduereste lassen sich problemlos auswaschen, ohne Reste im Spültuch zu hinterlassen. Es ist ebenfalls einsetzbar für die materialschonende Nassreinigung von Hochglanzoberflächen. Maße: 13 x 18 cm Zusammensetzung: 95% Viskose 5% Polyester</p><p><br></p><p>1 x CLEA*R Daily 500 ml Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p><br></p><p>1 x Handschuh Finish Der Handschuh Finish ist für alle Hochglanzoberflächen im gesamten Haushalt geeignet. Ob Badezimmer-, Wohn-, Schlafzimmermöbel oder Küche. Alle empfindlichen Oberflächen werden dank der speziellen Textur schonend und gründlich gereinigt. Material: 72% Tencel und 28% Polyester</p><p><br></p><p>Ihr Geschenk: 1 x Schaumpumpe</p>",
+        "meta_description": "Hochglanz-Set 11/21",
+        "meta_keywords": "Hochglanz-Set 11/21",
+        "product": {
+          "id": 630,
+          "name": "Hochglanz-Set 2021",
+          "description": "Hochglanz-Set 2021\n\n1 x CLEA*R Daily 500 ml\n1 x Spültuch\n1 x Handschuh Finish\n\nIhr Geschenk:\n1 x Schaumpumpe",
+          "number": 10017,
+          "maximum_sale_for_each_user": null,
+          "is_active": true,
+          "price_visible": true,
+          "default_vat": 19,
+          "auto_active_net_stock": false,
+          "auto_deactive_net_stock": false,
+          "max_order_quantity": null,
+          "min_order_quantity": 1,
+          "interval_order_quantity": null,
+          "release_date": null,
+          "available_until": null,
+          "file_id": 1361,
+          "sort": null,
+          "file": "/storage/ssfstg.solutions-apps.com/uploads/image/969459bcb13ab934f84c0b153f539ea5130ab040.jpg",
+          "partner": null,
+          "translate": [
+            {
+              "product_id": 630,
+              "locale": "de",
+              "name": "Hochglanz-Set 2021",
+              "description": "Hochglanz-Set 2021\n\n1 x CLEA*R Daily 500 ml\n1 x Spültuch\n1 x Handschuh Finish\n\nIhr Geschenk:\n1 x Schaumpumpe"
+            }
+          ],
+          "main_variation_id": 620
+        },
+        "productVariationFiles": [
+          {
+            "id": 1661,
+            "type": "image",
+            "title": "text",
+            "link": "/storage/b498197386646c87f67248c0970d50610acb3cff.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/b498197386646c87f67248c0970d50610acb3cff.jpg",
+            "file_self_id": 1535
+          }
+        ],
+        "productVariationPrices": [
+          {
+            "id": 1966,
+            "value": 28.1512605,
+            "available_from": "2021-10-31T02:38:44.000000Z",
+            "minimum_quantity": 1,
+            "price": {
+              "id": 1752,
+              "interval": "none",
+              "display_for_new_item": true,
+              "min_quantity": 1,
+              "unit_price": null,
+              "created_at": "2021-10-30T20:39:59.000000Z",
+              "updated_at": "2021-10-30T20:39:59.000000Z",
+              "name": "Hochglanz-Set 11/21_sale_price",
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "priceType": {
+                "id": 3,
+                "name": "sale_price",
+                "translate": [
+                  {
+                    "price_type_id": 3,
+                    "locale": "en",
+                    "name": "sale_price"
+                  }
+                ]
+              },
+              "countries": [
+                {
+                  "id": 83,
+                  "name": "Deutschland2",
+                  "default_warranty_days": 14,
+                  "max_tax_free_trade": null,
+                  "max_small_business_trade": null,
+                  "is_eeu": true,
+                  "iso2": "DE",
+                  "iso3": "DEU",
+                  "is_active": true,
+                  "is_default": true,
+                  "timezone": null,
+                  "currency": {
+                    "name": "Euro",
+                    "id": 49,
+                    "ratio": 1,
+                    "is_default": true,
+                    "symbol": "€",
+                    "iso3": "EUR",
+                    "is_active": true,
+                    "translate": [
+                      {
+                        "currency_id": 49,
+                        "locale": "en",
+                        "name": "Euro"
+                      }
+                    ]
+                  },
+                  "vats": [
+                    {
+                      "id": 2,
+                      "number": "nisi",
+                      "valid_from": "2021-09-30T01:00:51.000000Z",
+                      "value": 0
+                    },
+                    {
+                      "id": 3,
+                      "number": "DE-7",
+                      "valid_from": "2021-09-30T01:01:39.000000Z",
+                      "value": 7.7
+                    },
+                    {
+                      "id": 1,
+                      "number": "DE-19",
+                      "valid_from": "2021-09-30T01:00:46.000000Z",
+                      "value": 19
+                    }
+                  ],
+                  "translate": [
+                    {
+                      "country_id": 83,
+                      "locale": "de",
+                      "name": "Deutschland2"
+                    },
+                    {
+                      "country_id": 83,
+                      "locale": "en",
+                      "name": "Germany"
+                    }
+                  ]
+                }
+              ],
+              "translate": [
+                {
+                  "price_id": 1752,
+                  "locale": "en",
+                  "name": "Hochglanz-Set 11/21_sale_price"
+                }
+              ]
+            }
+          }
+        ],
+        "vats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "productVariationVats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "translate": [
+          {
+            "product_variation_id": 620,
+            "locale": "de",
+            "name": "Hochglanz-Set 11/21",
+            "description": "<p>Sie haben Hochglanzoberflächen in Ihrer Küche, Bad oder Wohnbereich? Oder empfindliche Oberfläche, wo die \"normale\" Microfaser nicht zum Einsatz kommen soll?</p><p>Dann haben wir hier mit dem Cleafin Hochglanz-Set genau das Richtige für Sie!</p><p>Auf das feuchte Spültuch geben Sie mit der Schaumpumpe ganz wenig CLEA´R Daily und können die Oberflächen schnell und einfach reinigen. Fingerabdrücke, Fettspritzer und andere Verschmutzungen bekommen Sie so sehr schnell gelöst und aufgenommen. Jetzt nur noch mit dem Handschuh Finish nachtrocknen, damit Sie einen streifenfreien Glanz erhalten.</p><p>Im Set enthalten:</p><ul><li>1 x CLEA*R Daily 500 ml</li><li>1 x Spültuch</li><li>1 x Handschuh Finish</li><li>Ihr Geschenk: 1 x Schaumpumpe</li></ul><p><br></p><p>CLEA´R Daily ist auch in einzeln lieferbar, einfach bei Bedarf anklicken:</p><p><a href=\"/products/50/50\" rel=\"noopener noreferrer\" target=\"_blank\">500-ml Flasche</a>, <a href=\"/products/51/51\" rel=\"noopener noreferrer\" target=\"_blank\">6x500-ml Flaschen</a>, <a href=\"/products/52/52\" rel=\"noopener noreferrer\" target=\"_blank\">2-L Kanister</a>, <a href=\"/products/53/53\" rel=\"noopener noreferrer\" target=\"_blank\">5-L Kanister</a>, <a href=\"/products/55/55\" rel=\"noopener noreferrer\" target=\"_blank\">10-L Kanister</a></p>",
+            "preview_text": "<p>Unser optimales Set für empfindliche Oberflächen, wie z.B.: Hochglanzfronten, Klavierlack usw.</p>",
+            "technical_data": "<p>1 x Spültuch: Das Cleafin-Spültuch ist ein handliches und zuverlässiges Küchen-Universaltuch mit vielseitigen Einsatzmöglichkeiten, z. B. zum Geschirr abwaschen (auch ohne Reinigungsmittel einsetzbar) oder zum Entfernen von Krümeln auf Tischen und Arbeitsflächen. Das Spültuch lässt sich sehr gut reinigen und selbst Teig- und Fonduereste lassen sich problemlos auswaschen, ohne Reste im Spültuch zu hinterlassen. Es ist ebenfalls einsetzbar für die materialschonende Nassreinigung von Hochglanzoberflächen. Maße: 13 x 18 cm Zusammensetzung: 95% Viskose 5% Polyester</p><p><br></p><p>1 x CLEA*R Daily 500 ml Inhaltsstoffe nach Detergenzienverordnung: &lt; 5% anionische Tenside, &lt; 5% nichtionische Tenside, &lt; 5% amphotere Tenside. Weitere Inhaltsstoffe: Duftstoffe, wasserlösliche Lösemittel.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p><br></p><p>1 x Handschuh Finish Der Handschuh Finish ist für alle Hochglanzoberflächen im gesamten Haushalt geeignet. Ob Badezimmer-, Wohn-, Schlafzimmermöbel oder Küche. Alle empfindlichen Oberflächen werden dank der speziellen Textur schonend und gründlich gereinigt. Material: 72% Tencel und 28% Polyester</p><p><br></p><p>Ihr Geschenk: 1 x Schaumpumpe</p>",
+            "meta_description": "Hochglanz-Set 11/21",
+            "meta_keywords": "Hochglanz-Set 11/21"
+          }
+        ]
+      },
+      {
+        "id": 636,
+        "number": "10030",
+        "is_main": true,
+        "is_active": true,
+        "inherit": false,
+        "quantity": 10,
+        "maximum_sale_for_each_user": null,
+        "max_order_quantity": null,
+        "min_order_quantity": null,
+        "release_date": null,
+        "available_until": null,
+        "auto_active_net_stock": false,
+        "auto_deactivate_net_stock": false,
+        "type": "single",
+        "average_rating": null,
+        "by_exist_product": null,
+        "review_count": 3,
+        "weight": null,
+        "unit_id": null,
+        "availability_id": 1,
+        "name": "Black-Set 2021",
+        "description": "<p><strong>Das Cleafin Black-Set</strong></p><p><br></p><p><strong>DIE optimale, schnelle und leichte Reinigung für Ihre Kaminglasscheibe.</strong></p><p>Einfach CLEA*R Black mit der Schaumpumpe auf Ihre abgekühlte Kaminglasscheibe aufsprühen, bitte nur die Scheibe benetzen und nicht herunterlaufen lassen, ggf. mit Zeitung o.Ä. den Boden abdecken. Einwirken lassen und mit der Powerfaser reinigen. Anschließend mit dem Clean Tuch den Schmutz abnehmen. Falls erforderlich das Cleantuch einfach unter fließendem Wasser ausspülen und den Rest der Scheibe reinigen.</p><p>Das Clean Tuch am Besten nur unter Wasser auswaschen, da es viel Schmutz und Russ aufgenommen hat und anschließend trocknen lassen.</p><p><br></p><p>Dieses Set enthält:</p><p><br></p><ul><li><strong>1 x CLEA*R Black 500 ml</strong></li><li><strong>1 x Power Pad Black für Padholder</strong></li><li><strong>1 x Clean M Black</strong></li><li><strong>Ihr Geschenk: 1 x Schaumpumpe</strong></li></ul><p><br></p><p>Tip: ohne Padholder falten Sie das Power Pad einfach um es optimal zu nutzen. Alternativ: Sie können mit dem Padholder <a href=\"/products/123/123\" rel=\"noopener noreferrer\" target=\"_blank\">KLICK ZUM PRODUKT</a> noch einfacher arbeiten.</p>",
+        "preview_text": "<p>Reinigen Sie Ihre Kaminglasscheibe schnell und einfach mit dem Cleafin Black-Set</p>",
+        "technical_data": "<p>Power Pad Black: Maße: 20 x 12 cm Zusammensetzung: 65% Polyester-Microfaser 35% Polyester</p><p><br></p><p>Clean M Black: Zusammensetzung: 75% Polyester-Microfaser 25% Polyamid-Microfaser</p><p>Maße: 40 x 45 cm, Farbe: anthrazit</p><p><br></p><p>Schaumpumpe für unser CLEA´R Black</p><p><br></p><p>CLEA*R Black 500 ml - optimal für verrußte Kaminglasscheiben.</p><p>Inhaltsstoffe nach Detergenzienverordnung: &lt;5% kationische Tenside. Weitere Inhaltsstoffe: 2-Butoxyethanol; Quartäres Alkylmethylaminoethoxylatmethylchlorid; 2-Aminoethanol; Potassium Hydroxide.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p>Vorsicht bei laugenempfindlichen Oberflächen.</p><p>Bitte Herstellerempfehlung der Oberflächen beachten.</p>",
+        "meta_description": "Black-Set 11/21",
+        "meta_keywords": "Black-Set 11/21",
+        "product": {
+          "id": 622,
+          "name": "Black-Set 2021",
+          "description": "Black-Set 2021\n\n1 x CLEA*R Black 500 ml\n1 x Power Pad Black\n1 x Clean M Black\n\nIhr Geschenk:\n1 x Schaumpumpe",
+          "number": 10030,
+          "maximum_sale_for_each_user": null,
+          "is_active": true,
+          "price_visible": true,
+          "default_vat": 19,
+          "auto_active_net_stock": false,
+          "auto_deactive_net_stock": false,
+          "max_order_quantity": null,
+          "min_order_quantity": 1,
+          "interval_order_quantity": null,
+          "release_date": null,
+          "available_until": null,
+          "file_id": 1452,
+          "sort": null,
+          "file": "/storage/ssfstg.solutions-apps.com/uploads/image/a19f6cbcb3b69ff9bc6e7c3c92b5dd9fffefde1e.jpg",
+          "partner": null,
+          "translate": [
+            {
+              "product_id": 622,
+              "locale": "de",
+              "name": "Black-Set 2021",
+              "description": "Black-Set 2021\n\n1 x CLEA*R Black 500 ml\n1 x Power Pad Black\n1 x Clean M Black\n\nIhr Geschenk:\n1 x Schaumpumpe"
+            }
+          ],
+          "main_variation_id": 636
+        },
+        "productVariationFiles": [
+          {
+            "id": 1640,
+            "type": "image",
+            "title": "text",
+            "link": "/storage/c6714afd3c246ddf0c9c6059bd56cca1b77db032.jpg",
+            "sort": null,
+            "file": "/storage/ssfstg.solutions-apps.com/uploads/image/c6714afd3c246ddf0c9c6059bd56cca1b77db032.jpg",
+            "file_self_id": 1511
+          }
+        ],
+        "productVariationPrices": [
+          {
+            "id": 1945,
+            "value": 28.1512605042,
+            "available_from": "2021-10-31T03:57:43.000000Z",
+            "minimum_quantity": 1,
+            "price": {
+              "id": 1768,
+              "interval": "none",
+              "display_for_new_item": true,
+              "min_quantity": 1,
+              "unit_price": null,
+              "created_at": "2021-10-30T20:59:06.000000Z",
+              "updated_at": "2021-10-30T20:59:06.000000Z",
+              "name": "Black-Set 11/21_sale_price",
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "priceType": {
+                "id": 3,
+                "name": "sale_price",
+                "translate": [
+                  {
+                    "price_type_id": 3,
+                    "locale": "en",
+                    "name": "sale_price"
+                  }
+                ]
+              },
+              "countries": [
+                {
+                  "id": 83,
+                  "name": "Deutschland2",
+                  "default_warranty_days": 14,
+                  "max_tax_free_trade": null,
+                  "max_small_business_trade": null,
+                  "is_eeu": true,
+                  "iso2": "DE",
+                  "iso3": "DEU",
+                  "is_active": true,
+                  "is_default": true,
+                  "timezone": null,
+                  "currency": {
+                    "name": "Euro",
+                    "id": 49,
+                    "ratio": 1,
+                    "is_default": true,
+                    "symbol": "€",
+                    "iso3": "EUR",
+                    "is_active": true,
+                    "translate": [
+                      {
+                        "currency_id": 49,
+                        "locale": "en",
+                        "name": "Euro"
+                      }
+                    ]
+                  },
+                  "vats": [
+                    {
+                      "id": 2,
+                      "number": "nisi",
+                      "valid_from": "2021-09-30T01:00:51.000000Z",
+                      "value": 0
+                    },
+                    {
+                      "id": 3,
+                      "number": "DE-7",
+                      "valid_from": "2021-09-30T01:01:39.000000Z",
+                      "value": 7.7
+                    },
+                    {
+                      "id": 1,
+                      "number": "DE-19",
+                      "valid_from": "2021-09-30T01:00:46.000000Z",
+                      "value": 19
+                    }
+                  ],
+                  "translate": [
+                    {
+                      "country_id": 83,
+                      "locale": "de",
+                      "name": "Deutschland2"
+                    },
+                    {
+                      "country_id": 83,
+                      "locale": "en",
+                      "name": "Germany"
+                    }
+                  ]
+                }
+              ],
+              "translate": [
+                {
+                  "price_id": 1768,
+                  "locale": "en",
+                  "name": "Black-Set 11/21_sale_price"
+                }
+              ]
+            }
+          }
+        ],
+        "vats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "productVariationVats": [
+          {
+            "id": 1,
+            "number": "DE-19",
+            "valid_from": "2021-09-30T01:00:46.000000Z",
+            "value": 19,
+            "country": {
+              "id": 83,
+              "name": "Deutschland2",
+              "default_warranty_days": 14,
+              "max_tax_free_trade": null,
+              "max_small_business_trade": null,
+              "is_eeu": true,
+              "iso2": "DE",
+              "iso3": "DEU",
+              "is_active": true,
+              "is_default": true,
+              "timezone": null,
+              "currency": {
+                "name": "Euro",
+                "id": 49,
+                "ratio": 1,
+                "is_default": true,
+                "symbol": "€",
+                "iso3": "EUR",
+                "is_active": true,
+                "translate": [
+                  {
+                    "currency_id": 49,
+                    "locale": "en",
+                    "name": "Euro"
+                  }
+                ]
+              },
+              "vats": [
+                {
+                  "id": 2,
+                  "number": "nisi",
+                  "valid_from": "2021-09-30T01:00:51.000000Z",
+                  "value": 0
+                },
+                {
+                  "id": 3,
+                  "number": "DE-7",
+                  "valid_from": "2021-09-30T01:01:39.000000Z",
+                  "value": 7.7
+                },
+                {
+                  "id": 1,
+                  "number": "DE-19",
+                  "valid_from": "2021-09-30T01:00:46.000000Z",
+                  "value": 19
+                }
+              ],
+              "translate": [
+                {
+                  "country_id": 83,
+                  "locale": "de",
+                  "name": "Deutschland2"
+                },
+                {
+                  "country_id": 83,
+                  "locale": "en",
+                  "name": "Germany"
+                }
+              ]
+            }
+          }
+        ],
+        "translate": [
+          {
+            "product_variation_id": 636,
+            "locale": "de",
+            "name": "Black-Set 2021",
+            "description": "<p><strong>Das Cleafin Black-Set</strong></p><p><br></p><p><strong>DIE optimale, schnelle und leichte Reinigung für Ihre Kaminglasscheibe.</strong></p><p>Einfach CLEA*R Black mit der Schaumpumpe auf Ihre abgekühlte Kaminglasscheibe aufsprühen, bitte nur die Scheibe benetzen und nicht herunterlaufen lassen, ggf. mit Zeitung o.Ä. den Boden abdecken. Einwirken lassen und mit der Powerfaser reinigen. Anschließend mit dem Clean Tuch den Schmutz abnehmen. Falls erforderlich das Cleantuch einfach unter fließendem Wasser ausspülen und den Rest der Scheibe reinigen.</p><p>Das Clean Tuch am Besten nur unter Wasser auswaschen, da es viel Schmutz und Russ aufgenommen hat und anschließend trocknen lassen.</p><p><br></p><p>Dieses Set enthält:</p><p><br></p><ul><li><strong>1 x CLEA*R Black 500 ml</strong></li><li><strong>1 x Power Pad Black für Padholder</strong></li><li><strong>1 x Clean M Black</strong></li><li><strong>Ihr Geschenk: 1 x Schaumpumpe</strong></li></ul><p><br></p><p>Tip: ohne Padholder falten Sie das Power Pad einfach um es optimal zu nutzen. Alternativ: Sie können mit dem Padholder <a href=\"/products/123/123\" rel=\"noopener noreferrer\" target=\"_blank\">KLICK ZUM PRODUKT</a> noch einfacher arbeiten.</p>",
+            "preview_text": "<p>Reinigen Sie Ihre Kaminglasscheibe schnell und einfach mit dem Cleafin Black-Set</p>",
+            "technical_data": "<p>Power Pad Black: Maße: 20 x 12 cm Zusammensetzung: 65% Polyester-Microfaser 35% Polyester</p><p><br></p><p>Clean M Black: Zusammensetzung: 75% Polyester-Microfaser 25% Polyamid-Microfaser</p><p>Maße: 40 x 45 cm, Farbe: anthrazit</p><p><br></p><p>Schaumpumpe für unser CLEA´R Black</p><p><br></p><p>CLEA*R Black 500 ml - optimal für verrußte Kaminglasscheiben.</p><p>Inhaltsstoffe nach Detergenzienverordnung: &lt;5% kationische Tenside. Weitere Inhaltsstoffe: 2-Butoxyethanol; Quartäres Alkylmethylaminoethoxylatmethylchlorid; 2-Aminoethanol; Potassium Hydroxide.</p><p>Gefahrstoff, vor Gebrauch Etikett lesen.</p><p>Vorsicht bei laugenempfindlichen Oberflächen.</p><p>Bitte Herstellerempfehlung der Oberflächen beachten.</p>",
+            "meta_description": "Black-Set 11/21",
+            "meta_keywords": "Black-Set 11/21"
+          }
+        ]
+      }
+    ],
+    "multiProductVariations": [],
+    "shippingProfiles": [],
+    "productVariationFiles": [
+      {
+        "id": 1651,
+        "type": "image",
+        "title": "text",
+        "link": "/storage/24be508bc85722712de46e43c2a547dbc67522cb.jpg",
+        "sort": null,
+        "file": "/storage/ssfstg.solutions-apps.com/uploads/image/24be508bc85722712de46e43c2a547dbc67522cb.jpg",
+        "file_self_id": 1522
+      }
+    ],
+    "productVariationPrices": [
+      {
+        "id": 1956,
+        "value": 23.5294117647,
+        "available_from": "2021-10-30T19:07:26.000000Z",
+        "minimum_quantity": 1,
+        "price": {
+          "id": 1735,
+          "interval": "none",
+          "display_for_new_item": true,
+          "min_quantity": 1,
+          "unit_price": null,
+          "created_at": "2021-10-30T19:09:28.000000Z",
+          "updated_at": "2021-10-30T19:09:28.000000Z",
+          "name": "Beginner-Set Kiwigrün 11/21_sale_price",
+          "currency": {
+            "name": "Euro",
+            "id": 49,
+            "ratio": 1,
+            "is_default": true,
+            "symbol": "€",
+            "iso3": "EUR",
+            "is_active": true,
+            "translate": [
+              {
+                "currency_id": 49,
+                "locale": "en",
+                "name": "Euro"
+              }
+            ]
+          },
+          "priceType": {
+            "id": 3,
+            "name": "sale_price",
+            "translate": [
+              {
+                "price_type_id": 3,
+                "locale": "en",
+                "name": "sale_price"
+              }
+            ]
+          },
+          "translate": [
+            {
+              "price_id": 1735,
+              "locale": "en",
+              "name": "Beginner-Set Kiwigrün 11/21_sale_price"
+            }
+          ]
+        }
+      }
+    ],
+    "userVariationPrices": [],
+    "productVariationSuppliers": [],
+    "productVariationCategories": [
+      {
+        "id": 1,
+        "partner_id": null,
+        "subdomain_id": null,
+        "name": "physical",
+        "translate": [
+          {
+            "product_variation_category_id": 1,
+            "locale": "de",
+            "name": "physical"
+          },
+          {
+            "product_variation_category_id": 1,
+            "locale": "en",
+            "name": "physical"
+          }
+        ],
+        "parent": {
+          "id": 3,
+          "partner_id": null,
+          "subdomain_id": null,
+          "name": "Digitale",
+          "translate": [
+            {
+              "product_variation_category_id": 3,
+              "locale": "de",
+              "name": "Digitale"
+            },
+            {
+              "product_variation_category_id": 3,
+              "locale": "en",
+              "name": "Digital"
+            }
+          ],
+          "parent": null
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4111,
+        "visible": false,
+        "value": "1",
+        "attribute_type_id": 1,
+        "product_variation_id": 603,
+        "attributeType": {
+          "id": 1,
+          "name": "Größeee",
+          "partner_id": null,
+          "subdomain_id": null,
+          "translate": [
+            {
+              "attribute_type_id": 1,
+              "locale": "de",
+              "name": "Größeee"
+            },
+            {
+              "attribute_type_id": 1,
+              "locale": "en",
+              "name": "Size"
+            }
+          ]
+        },
+        "translate": [
+          {
+            "attribute_id": 4111,
+            "locale": "de",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": 4112,
+        "visible": false,
+        "value": "1",
+        "attribute_type_id": 2,
+        "product_variation_id": 603,
+        "attributeType": {
+          "id": 2,
+          "name": "weight",
+          "partner_id": null,
+          "subdomain_id": null,
+          "translate": [
+            {
+              "attribute_type_id": 2,
+              "locale": "en",
+              "name": "weight"
+            }
+          ]
+        },
+        "translate": [
+          {
+            "attribute_id": 4112,
+            "locale": "de",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": 4113,
+        "visible": false,
+        "value": "1",
+        "attribute_type_id": 3,
+        "product_variation_id": 603,
+        "attributeType": {
+          "id": 3,
+          "name": "Länge",
+          "partner_id": null,
+          "subdomain_id": null,
+          "translate": [
+            {
+              "attribute_type_id": 3,
+              "locale": "de",
+              "name": "Länge"
+            },
+            {
+              "attribute_type_id": 3,
+              "locale": "en",
+              "name": "length"
+            }
+          ]
+        },
+        "translate": [
+          {
+            "attribute_id": 4113,
+            "locale": "de",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": 4114,
+        "visible": false,
+        "value": "1",
+        "attribute_type_id": 4,
+        "product_variation_id": 603,
+        "attributeType": {
+          "id": 4,
+          "name": "Breite",
+          "partner_id": null,
+          "subdomain_id": null,
+          "translate": [
+            {
+              "attribute_type_id": 4,
+              "locale": "de",
+              "name": "Breite"
+            },
+            {
+              "attribute_type_id": 4,
+              "locale": "en",
+              "name": "Width"
+            }
+          ]
+        },
+        "translate": [
+          {
+            "attribute_id": 4114,
+            "locale": "de",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "id": 4115,
+        "visible": false,
+        "value": "1",
+        "attribute_type_id": 5,
+        "product_variation_id": 603,
+        "attributeType": {
+          "id": 5,
+          "name": "Höhe",
+          "partner_id": null,
+          "subdomain_id": null,
+          "translate": [
+            {
+              "attribute_type_id": 5,
+              "locale": "de",
+              "name": "Höhe"
+            },
+            {
+              "attribute_type_id": 5,
+              "locale": "en",
+              "name": "Height"
+            }
+          ]
+        },
+        "translate": [
+          {
+            "attribute_id": 4115,
+            "locale": "de",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "packages": [],
+    "vats": [
+      {
+        "id": 1,
+        "number": "DE-19",
+        "valid_from": "2021-09-30T01:00:46.000000Z",
+        "value": 19,
+        "country": {
+          "id": 83,
+          "name": "Deutschland2",
+          "default_warranty_days": 14,
+          "max_tax_free_trade": null,
+          "max_small_business_trade": null,
+          "is_eeu": true,
+          "iso2": "DE",
+          "iso3": "DEU",
+          "is_active": true,
+          "is_default": true,
+          "timezone": null,
+          "currency": {
+            "name": "Euro",
+            "id": 49,
+            "ratio": 1,
+            "is_default": true,
+            "symbol": "€",
+            "iso3": "EUR",
+            "is_active": true,
+            "translate": [
+              {
+                "currency_id": 49,
+                "locale": "en",
+                "name": "Euro"
+              }
+            ]
+          },
+          "vats": [
+            {
+              "id": 2,
+              "number": "nisi",
+              "valid_from": "2021-09-30T01:00:51.000000Z",
+              "value": 0
+            },
+            {
+              "id": 3,
+              "number": "DE-7",
+              "valid_from": "2021-09-30T01:01:39.000000Z",
+              "value": 7.7
+            },
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19
+            }
+          ],
+          "translate": [
+            {
+              "country_id": 83,
+              "locale": "de",
+              "name": "Deutschland2"
+            },
+            {
+              "country_id": 83,
+              "locale": "en",
+              "name": "Germany"
+            }
+          ]
+        }
+      }
+    ],
+    "productVariationVats": [
+      {
+        "id": 1,
+        "number": "DE-19",
+        "valid_from": "2021-09-30T01:00:46.000000Z",
+        "value": 19,
+        "country": {
+          "id": 83,
+          "name": "Deutschland2",
+          "default_warranty_days": 14,
+          "max_tax_free_trade": null,
+          "max_small_business_trade": null,
+          "is_eeu": true,
+          "iso2": "DE",
+          "iso3": "DEU",
+          "is_active": true,
+          "is_default": true,
+          "timezone": null,
+          "currency": {
+            "name": "Euro",
+            "id": 49,
+            "ratio": 1,
+            "is_default": true,
+            "symbol": "€",
+            "iso3": "EUR",
+            "is_active": true,
+            "translate": [
+              {
+                "currency_id": 49,
+                "locale": "en",
+                "name": "Euro"
+              }
+            ]
+          },
+          "vats": [
+            {
+              "id": 2,
+              "number": "nisi",
+              "valid_from": "2021-09-30T01:00:51.000000Z",
+              "value": 0
+            },
+            {
+              "id": 3,
+              "number": "DE-7",
+              "valid_from": "2021-09-30T01:01:39.000000Z",
+              "value": 7.7
+            },
+            {
+              "id": 1,
+              "number": "DE-19",
+              "valid_from": "2021-09-30T01:00:46.000000Z",
+              "value": 19
+            }
+          ],
+          "translate": [
+            {
+              "country_id": 83,
+              "locale": "de",
+              "name": "Deutschland2"
+            },
+            {
+              "country_id": 83,
+              "locale": "en",
+              "name": "Germany"
+            }
+          ]
+        }
+      }
+    ],
+    "unit": null,
+    "translate": [
+      {
+        "product_variation_id": 603,
+        "locale": "de",
+        "name": "Beginner-Set Kiwigrün 2021",
+        "description": "<p>1 x Clean S Kiwigrün&nbsp;(35 x 40 cm) Das Clean-Tuch in der Größe S ist für leichte und tägliche Verschmutzung perfekt geeignet. Es ist feucht bis nass, aber auch zum Nachtrocknen universell einsetzbar. Die besonders feine Struktur macht die Cleafin-Microfasertücher außergewöhnlich weich, nimmt Schmutz extrem gut auf und sorgt für eine fussel- und streifenfreie Reinigung in jedem Fensterbereich. Einsetzbar ist das Clean-Tuch z. B. auf Fensterrahmen, Rollläden, Fensterbänken und -rillen. Maße: 40 x 35 cm</p><p>1 x Finish L Kiwigrün&nbsp;(45 x 55 cm) Die Cleafin Finish-Tücher werden hauptsächlich zum Nachtrocknen von Fenster- und Spiegelflächen angewendet. Es nimmt enorm viel Feuchtigkeit auf und bietet dadurch ein fussel – und streifenfreies Ergebnis. Selbstverständlich sind die Finish-Tücher sehr gut geeignet für das Nachtrocknen aller anderen Oberflächen im Badezimmerbereich und können auch leicht feucht angewendet werden.</p><p><br></p><p>Ihr Geschenk:</p><p>1 x CLEA*R Glass+ 50 ml Der CLEA*R Glass+ ist ein zuverlässiger Reiniger für alle wasserbeständigen Oberflächen, mit dem sich speziell intensive und hartnäckige Verschmutzungen auf Glasoberflächen gründlich und mühelos entfernen lassen. Ideal in Kombination mit unseren Reinigungs- und Mikrofasertüchern des Fensterbereiches.</p>",
+        "preview_text": "<p>probieren Sie Cleafin mit diesem Set aus: optimal für alle Fenster und Spiegel</p>",
+        "technical_data": "<p>1 x Clean S Kiwigrün&nbsp;(35 x 40 cm)</p><p>Zusammensetzung:</p><p>80% Polyester-Microfaser</p><p>20% Polyamid-Microfaser</p><p>1 x Finish L Kiwigrün&nbsp;(45 x 55 cm)</p><p>Zusammensetzung:</p><p>80% Polyester-Microfaser</p><p>20% Polyamid-Microfaser</p><p>für beide Tücher gilt: bei empfindlichen Oberflächen bitte Herstellerempfehlung beachten. Bei normalen Glas und Spiegeln ist es kein Problem.</p><p>1 x CLEA*R Glass + 50 ml Inhaltsstoffe nach Detergenzienverordnung:&nbsp;&lt;5% anionische Tenside. Weitere Inhaltsstoffe: wasserlösliche Lösemittel, Methylisothiazolinone, Methylchloroisothiazolinone.</p>",
+        "meta_description": "Beginner-Set Kiwigrün 11/21",
+        "meta_keywords": "Beginner-Set Kiwigrün 11/21"
+      }
+    ]
+  }
+]
